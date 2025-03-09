@@ -1,5 +1,9 @@
 .body{
-  background-color: slategray;
+  background-image: url(thebois.jpeg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+  background-size: cover;
 }
 #mavs {
   color: SlateBlue;
