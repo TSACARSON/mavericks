@@ -106,3 +106,11 @@
   height: 100px;
   display: inline-block;
 }
+.boxy {
+  border:2px solid;
+  padding: 25px;
+  box-sizing: border-box;
+  height: auto;
+  width: 50%;
+  float: left;
+}
