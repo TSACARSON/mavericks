@@ -75,3 +75,7 @@
 #box2 {
   background-color: hsl(189, 100%, 55%)
 }
+#img1 {
+  float: left;
+  margin-right: 10px;
+}
