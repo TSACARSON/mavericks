@@ -120,7 +120,7 @@
 .container {
   background-color: hsl(0, 0%, 24%);
 }
-/* there are many postio stuff this is the list */
+/* there are many postio stuff this is the list relative, fixed, absolute, sticky, static */
 .boxy1 {
   width: 200px;
   height: 200px;
