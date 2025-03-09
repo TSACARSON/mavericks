@@ -33,6 +33,12 @@
   border-radius: 15px;
   color: red;
 }
+#box1 {
+  width: 100px;
+  height: 100px;
+  background-color: rgb(234, 234, 234);
+  box-shadow: 3px 3px 5px;
+}
 .2011 {
   color: rgb(199, 50, 202) !important;
 }
