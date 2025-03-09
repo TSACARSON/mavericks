@@ -42,6 +42,9 @@
 .2013 {
   color: hsl(274, 80%, 26%) !important;
 }
+.blue {
+  text-shadow: 3px 3px 5px hsl(136, 90%, 33%), -3px -3px 5px hsl(175, 87%, 50%);
+}
 #lock {
   border-bottom: 3px solid red;
   border-top: 3px solid yellow;
