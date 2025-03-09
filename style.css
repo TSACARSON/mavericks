@@ -5,6 +5,7 @@
   color: SlateBlue;
 }
 #p1 {
+  font-family: Roboto, verdana;
   color: Violet;
 }
 #p2 {
@@ -19,19 +20,32 @@
   color: DodgerBlue;
 }
 .chip {
+  border-style: ridge;
   color: white;
 }
 .p4 {
   color: orange;
 }
 .HOF {
+  border-style: solid;
+  border-width: 3px;
+  border-color: hsl(273, 100%, 54%);
+  border-radius: 15px;
   color: red;
 }
 #lock {
+  border-bottom: 3px solid red;
+  border-top: 3px solid yellow;
+  border-left: 3px dotted orange;
+  border-right: 3px dotted green;
+
+  border-radius: 10px;
+  border-style: dashed;
   color: rgb(199, 32, 201)
 }
 #2011 {
   color: #deb031;
+  
 }
 #2012 {
   color: hsl(60, 100%, 60%)
