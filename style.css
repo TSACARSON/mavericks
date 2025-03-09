@@ -1,16 +1,16 @@
 body{
   background-color: slategray;
 }
-mavs {
+#mavs {
   color: SlateBlue;
 }
-p1 {
+#p1 {
   color: Violet;
 }
-p2 {
+#p2 {
   color: tomato;
 }
-trade {
+#trade {
   color: DodgerBlue;
 }
 .chip {
