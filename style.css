@@ -8,9 +8,14 @@
   color: Violet;
 }
 #p2 {
+  font-family: verdana, arial;
   color: tomato;
 }
 #trade {
+  font-family: "lucida console", "courier new";
+  font-size: 18px;
+  font-weight: bold;
+  font-style: italic;
   color: DodgerBlue;
 }
 .chip {
