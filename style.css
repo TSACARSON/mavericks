@@ -19,6 +19,12 @@
   font-style: italic;
   color: DodgerBlue;
 }
+/* overflow properties: visible, hidden, clip also u can use overflow-clip-margin: a certain px, scroll, auto */
+.div {
+  border: 2px solid;
+  height: 75 px;
+  overflow: scroll;
+}
 .chip {
   border-style: ridge;
   color: white;
