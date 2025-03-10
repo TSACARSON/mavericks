@@ -170,4 +170,7 @@ li:not(:hover) {
 .greeting:hover p{
   display: block;
 }
-
+.era::first-letter {
+  font-size: 2em;
+  font-style: italic;
+}
