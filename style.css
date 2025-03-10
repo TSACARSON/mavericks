@@ -134,3 +134,10 @@
   top: 100px;
   left: 100px;
 }
+/* the four types of comibanators are blank space = descendant, > = child, + = adjacent sibling, ~ for general sibling */
+.container1 {
+  border: 2px solid;
+}
+.container1 > p {
+  background-color: hsl(60, 100%, 70%);
+}
