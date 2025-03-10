@@ -162,3 +162,11 @@ li:hover {
 li:not(:hover) {
   background-color: hsl(0, 0%, 76%);
 }
+.greeting {
+  background-color: hsl(196, 100%, 81%);
+  padding: 10px;
+  display: none;
+}
+.greeting:hover p{
+  display: block;
+}
