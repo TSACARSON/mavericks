@@ -3,6 +3,7 @@
   background-position: center;
   background-attachment: fixed;
   background-size: cover; */
+
 .body{
   background-color: SlateGray;
 }
@@ -173,4 +174,27 @@ li:not(:hover) {
 .era::first-letter {
   font-size: 2em;
   font-style: italic;
+}
+.over::first-line {
+  background-color: hsl(60, 100%, 77%);
+}
+.over::selection {
+  color: rgb(89, 255, 71);
+  background-color: hsl(0, 0%, 21%);
+}
+.fruit li::before {
+}
+.apple::after {
+  content: "🍎";
+}
+.orange::after {
+  content: "🍊 ";
+}
+.banana::after {
+  content: "🍌";
+}
+.fruit li::marker {
+  content: "✔️";
+  color: hsl(120, 100%, 64%);
+  font-size: 1.2 em;
 }
